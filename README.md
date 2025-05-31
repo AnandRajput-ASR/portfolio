@@ -1,27 +1,30 @@
-# Portfolio
+# Portfolio Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
+This is my personal developer portfolio built with Angular.
 
-## Development server
+## Live Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[https://AnandRajput-ASR.github.io/portfolio/](https://AnandRajput-ASR.github.io/portfolio/)
 
-## Code scaffolding
+## About
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This website showcases my skills, projects, and contact information.  
+Built using Angular and deployed on GitHub Pages.
 
-## Build
+## Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Responsive layout  
+- Modular components for About, Projects, Contact, Header, and Footer  
+- Clean and simple design
 
-## Running unit tests
+## Tech Stack
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular  
+- SCSS  
+- GitHub Pages for deployment
 
-## Running end-to-end tests
+## How to Run Locally
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/AnandRajput-ASR/portfolio.git
