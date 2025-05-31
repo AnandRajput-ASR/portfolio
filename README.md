@@ -4,7 +4,7 @@ This is my personal developer portfolio built with Angular.
 
 ## Live Demo
 
-[https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)
+[https://AnandRajput-ASR.github.io/portfolio/](https://AnandRajput-ASR.github.io/portfolio/)
 
 ## About
 
@@ -27,4 +27,4 @@ Built using Angular and deployed on GitHub Pages.
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/AnandRajput-ASR/portfolio.git
